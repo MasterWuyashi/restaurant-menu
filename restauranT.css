@@ -1,0 +1,87 @@
+#div{
+    text-align: center;
+    line-height: 50px;
+    margin-left: 0px;
+}
+#raw{background-color: brown;}
+
+#rwt{ 
+
+    background-color: brown;
+height: 50%;}
+#bod{background-color: #1c1b18;}
+
+#res{background-color: #c69a16;}
+#table{
+
+    border-style: groove;
+    border-width: 10px;
+    border-color: #1c1b18;
+}
+#menu{
+    background-color: #c69a16;
+    width: 2100px;
+}
+
+
+
+.btn {
+    background: #b39d4f;
+    background-image: -webkit-linear-gradient(top, #b39d4f, #b39d4f);
+    background-image: -moz-linear-gradient(top, #b39d4f, #b39d4f);
+    background-image: -ms-linear-gradient(top, #b39d4f, #b39d4f);
+    background-image: -o-linear-gradient(top, #b39d4f, #b39d4f);
+    background-image: linear-gradient(to bottom, #b39d4f, #b39d4f);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }  
+  #pic{border-style: double;
+border-width: 5px;
+border-color: bisque;}
+#bode{font-family: Nerko One; font-size: 36px;
+    color: rgb(0, 0, 0);
+    background: url("https://wallpaperaccess.com/full/58330.jpg") no-repeat center center fixed; 
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+}
+#picA{border-style: double;
+    border-width: 5px;
+    border-color: bisque;}
+#picB{border-style: double;
+    border-width: 5px;
+    border-color: bisque;}
+#picC{border-style: double;
+    border-width: 5px;
+    border-color: bisque;}
+    #picD{border-style: double;
+        border-width: 5px;
+        border-color: bisque;}
+
+        @media screen and (max-width: 720px) {
+          
+            #bode{ background: url("https://images.unsplash.com/photo-1513002749550-c59d786b8e6c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80") no-repeat center center fixed; 
+                -webkit-background-size: cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+            }
+        
+        }
